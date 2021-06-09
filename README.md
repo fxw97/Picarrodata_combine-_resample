@@ -1,2 +1,4 @@
 # Picarrodata_combine-_resample
-Automaticallly handel picarro's .dat files  and resample
+
+## Automaticallly handle picarro's `.dat` files  and resample
+## Mainly based on `Pandas` and `Python basic file manipulation`
