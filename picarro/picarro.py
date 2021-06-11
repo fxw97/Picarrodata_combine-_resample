@@ -22,7 +22,7 @@ for file in files:
     data_final['period'] = pd.to_datetime(data_final['period'])
     data_final.set_index('period',inplace=True)
     data_final.loc[:,'FRAC_DAYS_SINCE_JAN1':'nh3_conc_ave'] = data_final.loc[:,'FRAC_DAYS_SINCE_JAN1':'nh3_conc_ave'].apply(pd.to_numeric)
-    data_final = data_final.resample('5min').mean()
     data_all = pd.concat([data_all,data_final])
 
-data_all.to_excel('picarro-20200502-5mindata.xlsx')
+data_all = data_all.resample('1h').mean()
+data_all.to_excel('picarro-20200502-1hdata.xlsx')
