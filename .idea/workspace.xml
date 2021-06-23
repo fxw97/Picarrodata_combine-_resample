@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2250c140-199f-48e1-a34a-87ccce1eff6e" name="默认变更列表" comment="修复由于文件分块分散，导致求较大时间分辨率时重复计算的bug">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2250c140-199f-48e1-a34a-87ccce1eff6e" name="默认变更列表" comment="add example" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +26,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Gitprojects\Picarrodata_combine-_resample\picarro" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="picarro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -62,6 +72,7 @@
       <workItem from="1623211758078" duration="302000" />
       <workItem from="1623212784976" duration="86000" />
       <workItem from="1623386310726" duration="365000" />
+      <workItem from="1624446108241" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="commit example">
       <created>1623211934883</created>
@@ -84,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623386637008</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add example">
+      <created>1624446311380</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624446311380</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +123,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit example" />
     <MESSAGE value="修复由于文件分块分散，导致求较大时间分辨率时重复计算的bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="修复由于文件分块分散，导致求较大时间分辨率时重复计算的bug" />
+    <MESSAGE value="add example" />
+    <option name="LAST_COMMIT_MESSAGE" value="add example" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Picarrodata_combine__resample$picarro.coverage" NAME="picarro 覆盖结果" MODIFIED="1623386500095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picarro" />
