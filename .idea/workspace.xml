@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2250c140-199f-48e1-a34a-87ccce1eff6e" name="默认变更列表" comment="commit example">
+    <list default="true" id="2250c140-199f-48e1-a34a-87ccce1eff6e" name="默认变更列表" comment="修复由于文件分块分散，导致求较大时间分辨率时重复计算的bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
       <updated>1623211755667</updated>
       <workItem from="1623211758078" duration="302000" />
       <workItem from="1623212784976" duration="86000" />
+      <workItem from="1623386310726" duration="365000" />
     </task>
     <task id="LOCAL-00001" summary="commit example">
       <created>1623211934883</created>
@@ -76,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623211939837</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修复由于文件分块分散，导致求较大时间分辨率时重复计算的bug">
+      <created>1623386637008</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623386637008</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,9 +104,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit example" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit example" />
+    <MESSAGE value="修复由于文件分块分散，导致求较大时间分辨率时重复计算的bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复由于文件分块分散，导致求较大时间分辨率时重复计算的bug" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Picarrodata_combine__resample$picarro.coverage" NAME="picarro 覆盖结果" MODIFIED="1623211789255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picarro" />
+    <SUITE FILE_PATH="coverage/Picarrodata_combine__resample$picarro.coverage" NAME="picarro 覆盖结果" MODIFIED="1623386500095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picarro" />
   </component>
 </project>
