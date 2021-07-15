@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2250c140-199f-48e1-a34a-87ccce1eff6e" name="默认变更列表" comment="commit">
-      <change afterPath="$PROJECT_DIR$/picarro/picarro2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picarro/picarro3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picarro/summer_daily_hour_mean.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picarro/summer_daily_hour_std.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picarro/summerdata.xlsx" afterDir="false" />
+    <list default="true" id="2250c140-199f-48e1-a34a-87ccce1eff6e" name="默认变更列表" comment="update">
+      <change afterPath="$PROJECT_DIR$/picarro/111.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picarro/finally_111.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picarro/picarro4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picarro/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
       <recent name="E:\Gitprojects\Picarrodata_combine-_resample\picarro" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.picarro3">
+  <component name="RunManager" selected="Python.picarro4">
     <configuration name="picarro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Picarrodata_combine-_resample" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,8 +113,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="picarro4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Picarrodata_combine-_resample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/picarro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/picarro/picarro4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Picarrodata_combine-_resample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/picarro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/picarro/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.picarro4" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.picarro3" />
         <item itemvalue="Python.picarro2" />
         <item itemvalue="Python.picarro" />
@@ -136,7 +181,10 @@
       <workItem from="1624446108241" duration="409000" />
       <workItem from="1624446588136" duration="254000" />
       <workItem from="1624446956355" duration="14000" />
-      <workItem from="1624449438855" duration="1418000" />
+      <workItem from="1624449438855" duration="1688000" />
+      <workItem from="1624453258018" duration="138000" />
+      <workItem from="1624454901567" duration="4000" />
+      <workItem from="1626334967439" duration="9745000" />
     </task>
     <task id="LOCAL-00001" summary="commit example">
       <created>1623211934883</created>
@@ -173,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624446804130</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1624450874367</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624450874367</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1624451043504</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624451043504</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,11 +259,14 @@
     <MESSAGE value="修复由于文件分块分散，导致求较大时间分辨率时重复计算的bug" />
     <MESSAGE value="add example" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Picarrodata_combine__resample$picarro2.coverage" NAME="picarro2 覆盖结果" MODIFIED="1624450221259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picarro" />
+    <SUITE FILE_PATH="coverage/Picarrodata_combine__resample$test.coverage" NAME="test 覆盖结果" MODIFIED="1626349649921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picarro" />
     <SUITE FILE_PATH="coverage/Picarrodata_combine__resample$picarro3.coverage" NAME="picarro3 覆盖结果" MODIFIED="1624450809879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picarro" />
+    <SUITE FILE_PATH="coverage/Picarrodata_combine__resample$picarro4.coverage" NAME="picarro4 覆盖结果" MODIFIED="1626356549895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picarro" />
     <SUITE FILE_PATH="coverage/Picarrodata_combine__resample$picarro.coverage" NAME="picarro 覆盖结果" MODIFIED="1623386500095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picarro" />
   </component>
 </project>
